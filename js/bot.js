@@ -18,7 +18,7 @@ function chatBot() {
 		this.input = input.toLowerCase();
 		
 		if(this.match('(hi|hello|hey|hola|howdy)(\\s|!|\\.|$)'))
-			return `hi friend, I'm Surd Bot. Type
+			return `hi Buddy, I'm Surd Bot. Please type:
 				<br><b>1</b> to learn about Data Science
 				<br><b>2</b> to view uses of Data Science
 				<br><b>3</b> to languages for Data Science
