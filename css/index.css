@@ -44,7 +44,6 @@ body {
 }
 .chat-item{
 	padding: 5px;
-	border-bottom: 1px solid lightgrey;
 }
 
 .busy {
